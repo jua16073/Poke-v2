@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="squirtle" size="1000.000000 1396.648071" />
+    <ImageTarget name="scyther" size="1000.000000 1402.524536" />
+    <ImageTarget name="pidgeot" size="100.000000 138.888885" />
+    <ImageTarget name="gyarados" size="1000.000000 1411.111084" />
+    <ImageTarget name="charmander" size="1000.000000 1401.869141" />
+    <ImageTarget name="bulbasaur" size="1000.000000 1396.648071" />
+    <ImageTarget name="blaziken" size="1000.000000 1392.757690" />
+    <ImageTarget name="charizard" size="1000.000000 1397.515503" />
+  </Tracking>
+</QCARConfig>
