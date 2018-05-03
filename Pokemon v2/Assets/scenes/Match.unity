@@ -463,7 +463,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400012, guid: 78b020f140f1b3d4f99863050fc2024f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.008
+      value: -0.122
       objectReference: {fileID: 0}
     - target: {fileID: 400012, guid: 78b020f140f1b3d4f99863050fc2024f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1791,7 +1791,7 @@ Mesh:
     vertexCount: 4
     localAABB:
       m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.35433072, y: 0, z: 0.5}
+      m_Extent: {x: 0.358, y: 0, z: 0.5}
   m_Shapes:
     vertices: []
     shapes: []
@@ -1844,7 +1844,7 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 128
-    _typelessdata: d66ab5be00000000000000bf000000000000803f000000000000000000000000d66ab5be000000000000003f000000000000803f00000000000000000000803fd66ab53e00000000000000bf000000000000803f000000000000803f00000000d66ab53e000000000000003f000000000000803f000000000000803f0000803f
+    _typelessdata: c74bb7be00000000000000bf000000000000803f000000000000000000000000c74bb7be000000000000003f000000000000803f00000000000000000000803fc74bb73e00000000000000bf000000000000803f000000000000803f00000000c74bb73e000000000000003f000000000000803f000000000000803f0000803f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
