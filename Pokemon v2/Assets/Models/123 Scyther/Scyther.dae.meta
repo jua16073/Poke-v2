@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: c2685f8c599ff8f47a95a5c3d097b3a8
+timeCreated: 1525313772
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BodyNutrey_OptMesh_6_0_node
+    100002: BodyRediba00_OptMesh_4_0_node
+    100004: BodyRediba01_OptMesh_9_0_node
+    100006: BodyRedibaVco00_OptMesh_5_0_node
+    100008: BodyRedibaVco01_OptMesh_10_0_node
+    100010: BodySpc00_OptMesh_0_0_node
+    100012: BodySpc00_OptMesh_1_0_node
+    100014: BodySpc01_OptMesh_2_0_node
+    100016: Eye_OptMesh_3_0_node
+    100018: Head
+    100020: Hips
+    100022: Jaw
+    100024: LArm
+    100026: LFeelerA
+    100028: LFeelerB
+    100030: LFoot
+    100032: LForeArm
+    100034: LHand
+    100036: LIris_OptMesh_7_0_node
+    100038: LLeg
+    100040: LShoulder
+    100042: LThigh
+    100044: LToe
+    100046: Neck
+    100048: Origin
+    100050: pm0123_00_BodySkin
+    100052: pm0123_00_HipSkin
+    100054: pm0123_00_IrisSkin
+    100056: pm0123_00_strike
+    100058: RArm
+    100060: RFeelerA
+    100062: RFeelerB
+    100064: RFoot
+    100066: RForeArm
+    100068: RHand
+    100070: RIris_OptMesh_8_0_node
+    100072: RLeg
+    100074: RShoulder
+    100076: RThigh
+    100078: RToe
+    100080: //RootNode
+    100082: Spine
+    100084: VriVis00
+    100086: Waist
+    400000: BodyNutrey_OptMesh_6_0_node
+    400002: BodyRediba00_OptMesh_4_0_node
+    400004: BodyRediba01_OptMesh_9_0_node
+    400006: BodyRedibaVco00_OptMesh_5_0_node
+    400008: BodyRedibaVco01_OptMesh_10_0_node
+    400010: BodySpc00_OptMesh_0_0_node
+    400012: BodySpc00_OptMesh_1_0_node
+    400014: BodySpc01_OptMesh_2_0_node
+    400016: Eye_OptMesh_3_0_node
+    400018: Head
+    400020: Hips
+    400022: Jaw
+    400024: LArm
+    400026: LFeelerA
+    400028: LFeelerB
+    400030: LFoot
+    400032: LForeArm
+    400034: LHand
+    400036: LIris_OptMesh_7_0_node
+    400038: LLeg
+    400040: LShoulder
+    400042: LThigh
+    400044: LToe
+    400046: Neck
+    400048: Origin
+    400050: pm0123_00_BodySkin
+    400052: pm0123_00_HipSkin
+    400054: pm0123_00_IrisSkin
+    400056: pm0123_00_strike
+    400058: RArm
+    400060: RFeelerA
+    400062: RFeelerB
+    400064: RFoot
+    400066: RForeArm
+    400068: RHand
+    400070: RIris_OptMesh_8_0_node
+    400072: RLeg
+    400074: RShoulder
+    400076: RThigh
+    400078: RToe
+    400080: //RootNode
+    400082: Spine
+    400084: VriVis00
+    400086: Waist
+    2100000: BodySpc00_mat
+    2100002: BodySpc01_mat
+    2100004: Eye_mat
+    2100006: BodyRediba00_mat
+    2100008: BodyRedibaVco00_mat
+    2100010: BodyNutrey_mat
+    2100012: LIris_mat
+    2100014: RIris_mat
+    2100016: BodyRediba01_mat
+    2100018: BodyRedibaVco01_mat
+    4300000: BodySpc00_OptMesh_0_0_node
+    4300002: BodySpc00_OptMesh_1_0_node
+    4300004: BodySpc01_OptMesh_2_0_node
+    4300006: Eye_OptMesh_3_0_node
+    4300008: BodyRediba00_OptMesh_4_0_node
+    4300010: BodyRedibaVco00_OptMesh_5_0_node
+    4300012: BodyNutrey_OptMesh_6_0_node
+    4300014: LIris_OptMesh_7_0_node
+    4300016: RIris_OptMesh_8_0_node
+    4300018: BodyRediba01_OptMesh_9_0_node
+    4300020: BodyRedibaVco01_OptMesh_10_0_node
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BodyNutrey_OptMesh_6_0_node
+    13700002: BodyRediba00_OptMesh_4_0_node
+    13700004: BodyRediba01_OptMesh_9_0_node
+    13700006: BodyRedibaVco00_OptMesh_5_0_node
+    13700008: BodyRedibaVco01_OptMesh_10_0_node
+    13700010: BodySpc00_OptMesh_0_0_node
+    13700012: BodySpc00_OptMesh_1_0_node
+    13700014: BodySpc01_OptMesh_2_0_node
+    13700016: Eye_OptMesh_3_0_node
+    13700018: LIris_OptMesh_7_0_node
+    13700020: RIris_OptMesh_8_0_node
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

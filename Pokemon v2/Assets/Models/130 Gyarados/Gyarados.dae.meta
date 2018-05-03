@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: c442d5a9da81eda4d80bc523a2cbefaf
+timeCreated: 1525313902
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BodyA_OptMesh_7_0_node
+    100002: BodyATattu_OptMesh_1_0_node
+    100004: BodyATattuVco_OptMesh_5_0_node
+    100006: BodyBTattu_OptMesh_2_0_node
+    100008: BodyBTattuVco_OptMesh_6_0_node
+    100010: Eye_OptMesh_0_0_node
+    100012: FeelerB
+    100014: FeelerC
+    100016: FeelerD
+    100018: FeelerE
+    100020: //RootNode
+    100022: Head
+    100024: Hips
+    100026: LEar
+    100028: LFeelerA1
+    100030: LFeelerA2
+    100032: LFeelerA3
+    100034: LFeelerA4
+    100036: LFeelerA5
+    100038: LFeelerA6
+    100040: LIris_OptMesh_4_0_node
+    100042: LowerBeak
+    100044: Neck
+    100046: Origin
+    100048: pm0130_00_BodySkin
+    100050: pm0130_00_gyarados
+    100052: pm0130_00_IrisSkin
+    100054: pm0130_00_MustacheSkin
+    100056: REar
+    100058: RFeelerA1
+    100060: RFeelerA2
+    100062: RFeelerA3
+    100064: RFeelerA4
+    100066: RFeelerA5
+    100068: RFeelerA6
+    100070: RIris_OptMesh_3_0_node
+    100072: Spine1
+    100074: Spine2
+    100076: Spine3
+    100078: Spine4
+    100080: Spine5
+    100082: Tail1
+    100084: Tail2
+    100086: Tail3
+    100088: Tail4
+    100090: Tail5
+    100092: Tail6
+    100094: Tail7
+    100096: Tail8
+    100098: Tail9
+    100100: Teeth
+    100102: Tongue1
+    100104: Tongue2
+    100106: UpperBeak
+    100108: VriVis00
+    100110: Waist
+    400000: BodyA_OptMesh_7_0_node
+    400002: BodyATattu_OptMesh_1_0_node
+    400004: BodyATattuVco_OptMesh_5_0_node
+    400006: BodyBTattu_OptMesh_2_0_node
+    400008: BodyBTattuVco_OptMesh_6_0_node
+    400010: Eye_OptMesh_0_0_node
+    400012: FeelerB
+    400014: FeelerC
+    400016: FeelerD
+    400018: FeelerE
+    400020: //RootNode
+    400022: Head
+    400024: Hips
+    400026: LEar
+    400028: LFeelerA1
+    400030: LFeelerA2
+    400032: LFeelerA3
+    400034: LFeelerA4
+    400036: LFeelerA5
+    400038: LFeelerA6
+    400040: LIris_OptMesh_4_0_node
+    400042: LowerBeak
+    400044: Neck
+    400046: Origin
+    400048: pm0130_00_BodySkin
+    400050: pm0130_00_gyarados
+    400052: pm0130_00_IrisSkin
+    400054: pm0130_00_MustacheSkin
+    400056: REar
+    400058: RFeelerA1
+    400060: RFeelerA2
+    400062: RFeelerA3
+    400064: RFeelerA4
+    400066: RFeelerA5
+    400068: RFeelerA6
+    400070: RIris_OptMesh_3_0_node
+    400072: Spine1
+    400074: Spine2
+    400076: Spine3
+    400078: Spine4
+    400080: Spine5
+    400082: Tail1
+    400084: Tail2
+    400086: Tail3
+    400088: Tail4
+    400090: Tail5
+    400092: Tail6
+    400094: Tail7
+    400096: Tail8
+    400098: Tail9
+    400100: Teeth
+    400102: Tongue1
+    400104: Tongue2
+    400106: UpperBeak
+    400108: VriVis00
+    400110: Waist
+    2100000: Eye_mat
+    2100002: BodyATattu_mat
+    2100004: BodyBTattu_mat
+    2100006: RIris_mat
+    2100008: LIris_mat
+    2100010: BodyATattuVco_mat
+    2100012: BodyBTattuVco_mat
+    2100014: BodyA_mat
+    4300000: Eye_OptMesh_0_0_node
+    4300002: BodyATattu_OptMesh_1_0_node
+    4300004: BodyBTattu_OptMesh_2_0_node
+    4300006: RIris_OptMesh_3_0_node
+    4300008: LIris_OptMesh_4_0_node
+    4300010: BodyATattuVco_OptMesh_5_0_node
+    4300012: BodyBTattuVco_OptMesh_6_0_node
+    4300014: BodyA_OptMesh_7_0_node
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BodyA_OptMesh_7_0_node
+    13700002: BodyATattu_OptMesh_1_0_node
+    13700004: BodyATattuVco_OptMesh_5_0_node
+    13700006: BodyBTattu_OptMesh_2_0_node
+    13700008: BodyBTattuVco_OptMesh_6_0_node
+    13700010: Eye_OptMesh_0_0_node
+    13700012: LIris_OptMesh_4_0_node
+    13700014: RIris_OptMesh_3_0_node
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 0016f1b551e396b4c9d5adbcd2864e5e
+timeCreated: 1525313203
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BodyA_OptMesh_3_0_node
+    100002: BodyA_OptMesh_4_0_node
+    100004: BodyAVco_OptMesh_6_0_node
+    100006: BodyB_OptMesh_0_0_node
+    100008: BodyBKurumiruVco_OptMesh_2_0_node
+    100010: BodyCKurumiru_OptMesh_1_0_node
+    100012: Eye_OptMesh_5_0_node
+    100014: FeelerA1
+    100016: FeelerA2
+    100018: FeelerB1
+    100020: FeelerB2
+    100022: FeelerB3
+    100024: FeelerC1
+    100026: FeelerC2
+    100028: FeelerC3
+    100030: Head
+    100032: Hips
+    100034: Jaw
+    100036: LArm
+    100038: LEar
+    100040: LFeelerA1
+    100042: LFeelerA2
+    100044: LFeelerA3
+    100046: LFeelerB1
+    100048: LFeelerB2
+    100050: LFeelerC1
+    100052: LFeelerC2
+    100054: LFeelerD1
+    100056: LFeelerD2
+    100058: LFinger1
+    100060: LFoot
+    100062: LForeArm
+    100064: LHand
+    100066: LJaw
+    100068: LLeg
+    100070: LShoulder
+    100072: LThigh
+    100074: LToe
+    100076: Neck1
+    100078: Neck2
+    100080: Origin
+    100082: pm0003_00_BodySkin
+    100084: pm0003_00_dummySkin
+    100086: pm0003_00_FlowerSkin
+    100088: pm0003_00_fushigibana
+    100090: pm0003_00_LeafSkin
+    100092: RArm
+    100094: REar
+    100096: RFeelerA1
+    100098: RFeelerA2
+    100100: RFeelerA3
+    100102: RFeelerB1
+    100104: RFeelerB2
+    100106: RFeelerC1
+    100108: RFeelerC2
+    100110: RFeelerD1
+    100112: RFeelerD2
+    100114: RFinger1
+    100116: RFoot
+    100118: RForeArm
+    100120: RHand
+    100122: RJaw
+    100124: RLeg
+    100126: RShoulder
+    100128: RThigh
+    100130: RToe
+    100132: Spine1
+    100134: Spine2
+    100136: //RootNode
+    100138: VriVis00
+    100140: Waist
+    400000: BodyA_OptMesh_3_0_node
+    400002: BodyA_OptMesh_4_0_node
+    400004: BodyAVco_OptMesh_6_0_node
+    400006: BodyB_OptMesh_0_0_node
+    400008: BodyBKurumiruVco_OptMesh_2_0_node
+    400010: BodyCKurumiru_OptMesh_1_0_node
+    400012: Eye_OptMesh_5_0_node
+    400014: FeelerA1
+    400016: FeelerA2
+    400018: FeelerB1
+    400020: FeelerB2
+    400022: FeelerB3
+    400024: FeelerC1
+    400026: FeelerC2
+    400028: FeelerC3
+    400030: Head
+    400032: Hips
+    400034: Jaw
+    400036: LArm
+    400038: LEar
+    400040: LFeelerA1
+    400042: LFeelerA2
+    400044: LFeelerA3
+    400046: LFeelerB1
+    400048: LFeelerB2
+    400050: LFeelerC1
+    400052: LFeelerC2
+    400054: LFeelerD1
+    400056: LFeelerD2
+    400058: LFinger1
+    400060: LFoot
+    400062: LForeArm
+    400064: LHand
+    400066: LJaw
+    400068: LLeg
+    400070: LShoulder
+    400072: LThigh
+    400074: LToe
+    400076: Neck1
+    400078: Neck2
+    400080: Origin
+    400082: pm0003_00_BodySkin
+    400084: pm0003_00_dummySkin
+    400086: pm0003_00_FlowerSkin
+    400088: pm0003_00_fushigibana
+    400090: pm0003_00_LeafSkin
+    400092: RArm
+    400094: REar
+    400096: RFeelerA1
+    400098: RFeelerA2
+    400100: RFeelerA3
+    400102: RFeelerB1
+    400104: RFeelerB2
+    400106: RFeelerC1
+    400108: RFeelerC2
+    400110: RFeelerD1
+    400112: RFeelerD2
+    400114: RFinger1
+    400116: RFoot
+    400118: RForeArm
+    400120: RHand
+    400122: RJaw
+    400124: RLeg
+    400126: RShoulder
+    400128: RThigh
+    400130: RToe
+    400132: Spine1
+    400134: Spine2
+    400136: //RootNode
+    400138: VriVis00
+    400140: Waist
+    2100000: BodyB_mat
+    2100002: BodyCKurumiru_mat
+    2100004: BodyBKurumiruVco_mat
+    2100006: BodyA_mat
+    2100008: Eye_mat
+    2100010: BodyAVco_mat
+    4300000: BodyB_OptMesh_0_0_node
+    4300002: BodyCKurumiru_OptMesh_1_0_node
+    4300004: BodyBKurumiruVco_OptMesh_2_0_node
+    4300006: BodyA_OptMesh_3_0_node
+    4300008: BodyA_OptMesh_4_0_node
+    4300010: Eye_OptMesh_5_0_node
+    4300012: BodyAVco_OptMesh_6_0_node
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BodyA_OptMesh_3_0_node
+    13700002: BodyA_OptMesh_4_0_node
+    13700004: BodyAVco_OptMesh_6_0_node
+    13700006: BodyB_OptMesh_0_0_node
+    13700008: BodyBKurumiruVco_OptMesh_2_0_node
+    13700010: BodyCKurumiru_OptMesh_1_0_node
+    13700012: Eye_OptMesh_5_0_node
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
